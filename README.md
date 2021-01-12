@@ -39,7 +39,7 @@
 0.5|20.12.29(예정)|x|[스터디 가이드](https://github.com/sejongsmarcle/2021_Winter_AiStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%A7%84%ED%96%89%EA%B0%80%EC%9D%B4%EB%93%9C.md)  [코랩튜토리얼](https://github.com/sejongsmarcle/2021_Winter_AiStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/0%ED%9A%8C%EC%B0%A8/0%ED%9A%8C%EC%B0%A8_%EC%BD%94%EB%9E%A9%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.ipynb), 팀 매칭|[유튜브 생방송](https://youtu.be/m-1VdnnI8_o)|
 1|1월 1주차 1|1팀|[3장 선형회귀](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/1B5XqXF0aQ0)|
 2|1월 1주차 2|2팀|[4장 경사하강법](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/DX74tQ57q8U)|
-3|1월 2주차 1|3팀|5장 로지스틱 회귀|구글 미팅 발표|
+3|1월 2주차 1|3팀|[5장 로지스틱 회귀](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/gxFTLrgePRE)|
 4|1월 2주차 2|4팀|6~9장 퍼셉트론과 역전파|구글 미팅 발표|
 5|1월 3주차 1|1팀,2팀|10~12장 모델설계와 품종예측|구글 미팅 발표|
 6|1월 3주차 2|3팀,4팀|13장~14장 과적합과 베스트모델|구글 미팅 발표|
