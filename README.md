@@ -43,7 +43,7 @@
 4|1월 2주차 2|4팀|[6~9장 퍼셉트론과 역전파](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/q3nutTdLePw)|
 5|1월 3주차 1|1팀,2팀|[10~12장 모델설계와 품종예측](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/8eCWLoJREy4)|
 6|1월 3주차 2|3팀,4팀|[13장~14장 과적합과 베스트모델](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/fv6jlUXBCLo)|
-7|1월 4주차 1|모두|선형 회귀 실습과 캐글|구글 미팅 발표|
+7|1월 4주차 1|모두|[선형 회귀 실습과 캐글](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/Z-uvs8vm-UY)|
 8|1월 4주차 2|모두|선형 분류 실습과 캐글|구글 미팅 발표|
 9|2월 1주차 1,2|CNN,RNN 팀|CNN,RNN 팀 발표|구글 미팅 발표|
 10|2월 2주차 1,2|NLP,GAN 팀|NLP,GAN 팀 발표|구글 미팅 발표|
