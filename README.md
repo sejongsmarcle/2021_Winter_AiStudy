@@ -33,7 +33,7 @@
 - 1회차당 1부 2부 나눠서 진행
 - 대략 1부에 1시간 정도
 
-|회차|날짜|팀|내용|방식|
+|회차|날짜|팀|내용,자료|다시보기|
 |:---:|:---:|:---:|:---:|:---:|
 0|20.12.26(예정)|x|OT,진행 방식 설명|유튜브 생방송|
 0.5|20.12.29(예정)|x|[스터디 가이드](https://github.com/sejongsmarcle/2021_Winter_AiStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%A7%84%ED%96%89%EA%B0%80%EC%9D%B4%EB%93%9C.md)  [코랩튜토리얼](https://github.com/sejongsmarcle/2021_Winter_AiStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/0%ED%9A%8C%EC%B0%A8/0%ED%9A%8C%EC%B0%A8_%EC%BD%94%EB%9E%A9%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.ipynb), 팀 매칭|[유튜브 생방송](https://youtu.be/m-1VdnnI8_o)|
@@ -47,7 +47,7 @@
 8|1월 4주차 2|모두|[캐글 타이타닉 생존자 예측](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/8%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/1tIFsMZ4n-4)|
 9|2월 1주차 2 금|CNN 팀|[16장 CNN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/9%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/NKcgHABJV4I)|
 10|2월 3주차 1 화|NLP팀|[17장 NLP 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/10%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/mKEKO01d0IU)|
-11|2월 3주차 2 금|RNN팀|18장 RNN 팀 발표|구글 미팅 발표|
+11|2월 3주차 2 금|RNN팀|[18장 RNN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/11%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표]()|
 12|2월 4주차 1 화|GAN 팀|19 장 GAN 팀 발표|구글 미팅 발표|
 13|2월 4주차 2 금|x| 마무리, 수료식|유튜브 생방송|
 
