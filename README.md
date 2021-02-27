@@ -49,7 +49,7 @@
 10|2월 3주차 1 화|NLP팀|[17장 NLP 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/10%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/mKEKO01d0IU)|
 11|2월 3주차 2 금|RNN팀|[18장 RNN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/11%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/Qjbca9uE5dc)|
 12|2월 4주차 1 화|GAN 팀|[19 장 GAN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/12%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/ycQZslRj3HA)|
-13|2월 4주차 2 금|x| 마무리, 수료식|유튜브 생방송|
+13|2월 4주차 2 금|x| [마무리 정리 방송](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/13%ED%9A%8C%EC%B0%A8)|[유튜브 생방송](https://youtu.be/gQw9xPtHdo0)|
 
 
 ### 참고
