@@ -37,18 +37,18 @@
 |:---:|:---:|:---:|:---:|:---:|
 0|20.12.26(예정)|x|OT,진행 방식 설명|유튜브 생방송|
 0.5|20.12.29(예정)|x|[스터디 가이드](https://github.com/sejongsmarcle/2021_Winter_AiStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%A7%84%ED%96%89%EA%B0%80%EC%9D%B4%EB%93%9C.md)  [코랩튜토리얼](https://github.com/sejongsmarcle/2021_Winter_AiStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/0%ED%9A%8C%EC%B0%A8/0%ED%9A%8C%EC%B0%A8_%EC%BD%94%EB%9E%A9%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.ipynb), 팀 매칭|[유튜브 생방송](https://youtu.be/m-1VdnnI8_o)|
-1|1월 1주차 1|1팀|[3장 선형회귀](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/1B5XqXF0aQ0)|
-2|1월 1주차 2|2팀|[4장 경사하강법](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/DX74tQ57q8U)|
-3|1월 2주차 1|3팀|[5장 로지스틱 회귀](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/gxFTLrgePRE)|
-4|1월 2주차 2|4팀|[6~9장 퍼셉트론과 역전파](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/q3nutTdLePw)|
-5|1월 3주차 1|1팀,2팀|[10~12장 모델설계와 품종예측](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/8eCWLoJREy4)|
-6|1월 3주차 2|3팀,4팀|[13장~14장 과적합과 베스트모델](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/fv6jlUXBCLo)|
-7|1월 4주차 1|모두|[선형 회귀 실습과 캐글](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/Z-uvs8vm-UY)|
-8|1월 4주차 2|모두|[캐글 타이타닉 생존자 예측](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/8%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/1tIFsMZ4n-4)|
-9|2월 1주차 2 금|CNN 팀|[16장 CNN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/9%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/NKcgHABJV4I)|
-10|2월 3주차 1 화|NLP팀|[17장 NLP 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/10%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/mKEKO01d0IU)|
-11|2월 3주차 2 금|RNN팀|[18장 RNN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/11%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/Qjbca9uE5dc)|
-12|2월 4주차 1 화|GAN 팀|[19 장 GAN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/12%ED%9A%8C%EC%B0%A8)|[ms 팀 미팅 발표](https://youtu.be/ycQZslRj3HA)|
+1|1월 1주차 1|1팀|[3장 선형회귀](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/1B5XqXF0aQ0)|
+2|1월 1주차 2|2팀|[4장 경사하강법](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/DX74tQ57q8U)|
+3|1월 2주차 1|3팀|[5장 로지스틱 회귀](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/gxFTLrgePRE)|
+4|1월 2주차 2|4팀|[6~9장 퍼셉트론과 역전파](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/q3nutTdLePw)|
+5|1월 3주차 1|1팀,2팀|[10~12장 모델설계와 품종예측](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/8eCWLoJREy4)|
+6|1월 3주차 2|3팀,4팀|[13장~14장 과적합과 베스트모델](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/fv6jlUXBCLo)|
+7|1월 4주차 1|모두|[선형 회귀 실습과 캐글](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/Z-uvs8vm-UY)|
+8|1월 4주차 2|모두|[캐글 타이타닉 생존자 예측](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/8%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/1tIFsMZ4n-4)|
+9|2월 1주차 2 금|CNN 팀|[16장 CNN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/9%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/NKcgHABJV4I)|
+10|2월 3주차 1 화|NLP팀|[17장 NLP 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/10%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/mKEKO01d0IU)|
+11|2월 3주차 2 금|RNN팀|[18장 RNN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/11%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/Qjbca9uE5dc)|
+12|2월 4주차 1 화|GAN 팀|[19 장 GAN 팀 발표](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/12%ED%9A%8C%EC%B0%A8)|[MS Teams 미팅 발표](https://youtu.be/ycQZslRj3HA)|
 13|2월 4주차 2 금|x| [마무리 정리 방송](https://github.com/sejongsmarcle/2021_Winter_AiStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/13%ED%9A%8C%EC%B0%A8)|[유튜브 생방송](https://youtu.be/gQw9xPtHdo0)|
 
 
